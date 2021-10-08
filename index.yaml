@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-08T11:07:26.604797802+02:00"
+    description: A Helm chart for Kubernetes
+    digest: f01dadf55057e0a6bdb19c2e03de366a6668c9fb91b70a33fbe21b9f7a7236c4
+    name: app1
+    urls:
+    - https://github.com/informalict/helm-charts/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-08T11:07:26.770342128+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 373ba97e4266144a1dcf6520467af00fd42cccb89ad2f9e890181142f49b5535
+    name: app2
+    urls:
+    - https://github.com/informalict/helm-charts/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-08T11:07:26.269277759+02:00"
